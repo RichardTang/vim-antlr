@@ -9,4 +9,4 @@ If you don't have a preferred installation method, I recommend installing
 paste:
 
     cd ~/.vim/bundle
-    git clone git://github.com/blinks/vim-antlr.git
+    git clone git://github.com/RichardTang/vim-antlr.git or git clone https://github.com/RichardTang/vim-antlr
